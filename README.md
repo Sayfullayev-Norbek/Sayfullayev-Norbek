@@ -24,7 +24,8 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 - :muscle: Do Bodybuilding & Calisthenics
 - :rocket: Always ready to collaborate for Dev Experiments
 
-<h2 align="center">🚀 Skills and Tools I Have Used and Learned</h2>
+<h2 align="center">🚀 
+## ⚡ Technologies</h2>
 
 ![Image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Image](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)

@@ -49,9 +49,4 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
     <img src="https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif" />
   </a>
 </p>
-![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Image](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Image](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Image](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+

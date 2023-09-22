@@ -8,7 +8,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 [![Linkedin Badge](https://img.shields.io/badge/-sayfullayev_norbek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/-100845186/](https://www.linkedin.com/in/norbek-sayfullayev-ba546025a/))](https://www.linkedin.com/in/norbek-sayfullayev-ba546025a/)
 [![Telegram Badge](https://img.shields.io/badge/sayfullayev_norbek-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Sayfullayev_Norbek)](https://t.me/Sayfullayev_norbek) 
-[![Instagram](https://img.shields.io/badge/sayfullayev_norbek-FF0004?style=flat-square&logo=instagram&logoColor=white&link=[https://www.youtube.com/@NuraliyevOrgatadi](https://www.instagram.com/sayfullayev_norbek/))](https://www.instagram.com/sayfullayev_norbek/)
+[![Instagram](https://img.shields.io/badge/sayfullayev_norbek-FF0004?style=flat-square&logo=instagram&logoColor=white&link=(https://www.instagram.com/sayfullayev_norbek/))](https://www.instagram.com/sayfullayev_norbek/)
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
@@ -45,6 +45,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sukhrobnuraliev&show_icons=true&theme=gotham" alt="sukhrobnuraliev" />
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukhrobnuraliev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="sukhrobnuraliev" /></a> </p>

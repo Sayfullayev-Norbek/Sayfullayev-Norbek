@@ -8,7 +8,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 [![Linkedin Badge](https://img.shields.io/badge/-sayfullayev_norbek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/-100845186/](https://www.linkedin.com/in/norbek-sayfullayev-ba546025a/))](https://www.linkedin.com/in/norbek-sayfullayev-ba546025a/)
 [![Telegram Badge](https://img.shields.io/badge/sayfullayev_norbek-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Sayfullayev_Norbek)](https://t.me/Sayfullayev_norbek) 
-[![Instagram](https://img.shields.io/badge/@NuraliyevOrgatadi-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@NuraliyevOrgatadi)
+[![Instagram](https://img.shields.io/badge/@NuraliyevOrgatadi-FF0004?style=flat-square&logo=instagram&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@NuraliyevOrgatadi)
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>

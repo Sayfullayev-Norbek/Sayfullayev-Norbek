@@ -10,11 +10,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 [![Telegram Badge](https://img.shields.io/badge/sayfullayev_norbek-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Sayfullayev_Norbek)](https://t.me/Sayfullayev_norbek) 
 [![Instagram](https://img.shields.io/badge/sayfullayev_norbek-FF0004?style=flat-square&logo=instagram&logoColor=white&link=(https://www.instagram.com/sayfullayev_norbek/))](https://www.instagram.com/sayfullayev_norbek/)
 
-<p align="center">
-  <a href="https://Belt.yellowflash2041.repl.co">
-    <img src="https://user-images.githubusercontent.com/110062591/199593953-c3fe6b61-9333-43b0-ace6-c64f3df47705.gif" />
-  </a>
-</p>
+
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 

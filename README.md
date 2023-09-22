@@ -1,6 +1,8 @@
 <h1 align="center">PHP Developer</h1>
 
-## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Norbek. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 
 I am a back-end software engineer specializing in building high load back-end services, web applications, and systems using PHP and Laravel. I solve problems, automate things, help businesses and people to grow and improve life. </br>
 

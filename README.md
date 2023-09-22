@@ -1,10 +1,6 @@
 <h1 align="center">PHP Developer</h1>
 
-<p align="center">
-  <a href="https://Belt.yellowflash2041.repl.co">
-    <img src="https://user-images.githubusercontent.com/110062591/199593953-c3fe6b61-9333-43b0-ace6-c64f3df47705.gif" />
-  </a>
-</p>
+
 
 I am a back-end software engineer specializing in building high load back-end services, web applications, and systems using PHP and Laravel. I solve problems, automate things, help businesses and people to grow and improve life. </br>
 
@@ -14,6 +10,11 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 [![Telegram Badge](https://img.shields.io/badge/sayfullayev_norbek-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Sayfullayev_Norbek)](https://t.me/Sayfullayev_norbek) 
 [![Instagram](https://img.shields.io/badge/sayfullayev_norbek-FF0004?style=flat-square&logo=instagram&logoColor=white&link=(https://www.instagram.com/sayfullayev_norbek/))](https://www.instagram.com/sayfullayev_norbek/)
 
+<p align="center">
+  <a href="https://Belt.yellowflash2041.repl.co">
+    <img src="https://user-images.githubusercontent.com/110062591/199593953-c3fe6b61-9333-43b0-ace6-c64f3df47705.gif" />
+  </a>
+</p>
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
